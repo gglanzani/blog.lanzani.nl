@@ -1,0 +1,31 @@
+---
+date: 2014-05-02T00:00:00Z
+title: Xebicon 2014
+url: /2014/05/02/xebicon2014/
+---
+
+In case you're in the Netherlands (or nearby! Hello Belgians), and are interested in big data and
+data science, software development, continuous integration or architecture, then you should come to
+[Xebicon] 2014. At €95 it is dirty cheap (you get good food too!) but if you're a swell chap I have
+a promo code for you (just drop me a [line] and you'll get the early bird price).
+
+Some highlights from the sessions:
+
++ The plenary is with [André Kuipers](http://en.wikipedia.org/wiki/André_Kuipers), speaking about
+  innovation; André is one of the first Dutch astronauts;
++ [Understanding natural language with 1500-year-old math][NL]: Jonatan, a colleague of mine, tries
+  to classify the questions that you can type in a search box. He uses Stackoverflow data to train
+  his classifier;
++ [iOS: Full speed ahead in your pants (Performance tuning on iOS)][iOS]: Jeroen will help the
+  audience understand and analyze one of the most difficult, but most important, topic of mobile
+  development: performance!
++ [Data: not as though as you think][data]: Big data, Machine Learning, real-time processing and
+  predictive analytics: reserved for the data caste or something for everybody? Listen to the CTO
+  of [GoDataDriven] share his knowledge.
+
+[Xebicon]: http://www.xebicon.nl/
+[line]: http://www.lanzani.nl/contact.html
+[NL]: http://www.xebicon.nl/programma/understanding-natural-language-with-1500-year-old-math
+[iOS]: http://www.xebicon.nl/programma/ios-full-speed-ahead-in-your-pants-performance-tuning-on-ios
+[data]: http://www.xebicon.nl/programma/data-not-as-tough-as-you-think
+[GoDataDriven]: http://www.godatadriven.com

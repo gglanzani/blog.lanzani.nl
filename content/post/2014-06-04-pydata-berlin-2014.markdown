@@ -1,0 +1,28 @@
+---
+date: 2014-06-04T00:00:00Z
+title: Pydata Berlin 2014
+url: /2014/06/04/pydata-berlin-2014/
+---
+
+I am thrilled to announce that I will speak this next July (25th and 26th, to be precise) at
+[Pydata Berlin 2014][pydata], about Python and pandas as back end to real-time data driven
+applications. From the abstract of the talk:
+
+> For data, and data science, to be the fuel of the 21th century, data driven applications should
+> not be confined to dashboards and static analyses. Instead they should be the driver of the
+> organizations that own or generates the data. Most of these applications are web-based and
+> require real-time access to the data. However, many Big Data analyses and tools are inherently
+> batch-driven and not well suited for real-time and performance-critical connections with
+> applications. Trade-offs become often inevitable, especially when mixing multiple tools and data
+> sources.   In this talk we will describe our journey to build a data driven application at a
+> large Dutch financial institution. We will dive into the issues we faced, why we chose Python and
+> pandas and what that meant for real-time data analysis (and agile development).   Important
+> points in the talk will be, among others, the handling of geographical data, the access to
+> hundreds of millions of records as well as the real time analysis of millions of data points.
+
+The full schedule is [available] and if you're into Python and data I warmly suggest you go.
+[Registrations] are still open.
+
+[pydata]: http://pydata.org/berlin2014
+[available]: http://pydata.org/berlin2014/schedule/
+[Registrations]: http://www.eventbrite.com/e/pydata-berlin-2014-tickets-10767005403

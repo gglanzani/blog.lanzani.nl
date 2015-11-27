@@ -1,0 +1,8 @@
+baseurl: http://blog.lanzani.nl
+disablePathToLower: true
+languageCode: en-us
+title: My New Hugo Site
+params:
+    Blog: "http://blog.lanzani.nl"
+    CV: "http://www.lanzani.nl/cv/"
+    Publications: "http://www.lanzani.nl/publications/"
