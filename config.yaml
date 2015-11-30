@@ -2,6 +2,7 @@ baseurl: http://blog.lanzani.nl
 disablePathToLower: true
 languageCode: en-us
 title: Technical inconsistencies blog
+RSSUri: atom.xml
 params:
     Domain: "http://www.lanzani.nl"
     Name: "lanzani.nl"
