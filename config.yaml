@@ -1,8 +1,10 @@
 baseurl: http://blog.lanzani.nl
 disablePathToLower: true
 languageCode: en-us
-title: My New Hugo Site
+title: Technical inconsistencies blog
 params:
-    Blog: "http://blog.lanzani.nl"
+    Domain: "http://www.lanzani.nl"
+    Name: "lanzani.nl"
+    Blog: "/"
     CV: "http://www.lanzani.nl/cv/"
     Publications: "http://www.lanzani.nl/publications/"
