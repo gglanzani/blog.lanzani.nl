@@ -10,11 +10,11 @@ Today I was sifting through the documentation for `itertools.count`
 > Equivalent to:
 
 {{< highlight python >}}
-    def count(firstval=0, step=1):
-        x = firstval
-        while 1:
-            yield x
-            x += step
+def count(firstval=0, step=1):
+    x = firstval
+    while 1:
+        yield x
+        x += step
 {{< / highlight >}}
 
 Since itertools is supposed to provide you with better tools to write functional Python code, I
