@@ -4,7 +4,7 @@ title: Use tab to cycle through Visual Studio Code completion
 url: /2016/tab-in-vscode/
 ---
 
-Sometimes, instead of using [NeoVim], I do like to use 
+Sometimes, instead of using [NeoVim](https://github.com/neovim/neovim/), I do like to use 
 [Visual Studio Code](https://code.visualstudio.com) (with Vim keybindings).
 
 Visual Studio Code is a great editor with amazing Intellisense and debugging capabilities (for 
@@ -44,6 +44,3 @@ file that is opened after you click on `File -> Preferences -> Keyboard Shortcut
 
 The commands should be pretty self-explanatory! To accept the suggestion, you can use `enter` 
 (that's the default together with `tab`). 
-
-
-[NeoVim]: https://github.com/neovim/neovim/
