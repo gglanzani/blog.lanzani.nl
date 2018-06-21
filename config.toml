@@ -1,0 +1,20 @@
+baseurl = "http://blog.lanzani.nl"
+disablePathToLower = true
+languageCode = "en-us"
+title = "Technical inconsistencies blog"
+theme = 'hugola'
+
+[params]
+Blog = "/"
+CV = "http://www.lanzani.nl/cv/"
+Domain = "http://www.lanzani.nl"
+Name = "lanzani.nl"
+Publications = "http://www.lanzani.nl/publications/"
+
+[outputs]
+home = [ "HTML", "RSS" ]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "atom"
