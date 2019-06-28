@@ -1,0 +1,3 @@
+[submodule "hugola"]
+	path = hugola
+	url = https://github.com/gglanzani/hugola
