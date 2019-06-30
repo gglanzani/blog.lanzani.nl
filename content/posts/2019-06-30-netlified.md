@@ -30,5 +30,5 @@ content!
 
 [Netlify]: https://www.netlify.com
 [stout]: https://github.com/cloudflare/Stout
-[hugo]: https://gohubo.io
+[hugo]: https://gohugo.io
 [GitHub]: https://github.com/gglanzani/blog.lanzani.nl
