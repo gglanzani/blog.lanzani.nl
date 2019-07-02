@@ -1,5 +1,5 @@
 ---
-date: 2019-07-02T23:00:00Z
+date: 2019-07-02T10:00:00Z
 title: Open-plan office
 url: /2019/open-office
 ---
