@@ -13,7 +13,7 @@ as a physicist that went more into the managerial path, I'm sure I'm not the onl
 I think they're all tightly coupled: if you're good at planning, you must have prioritized
 properly by knowing what you can and cannot accomplish with your time, and if you have prioritized
 you must say no and you must have delegated tasks. If you're good at planning, you also can't be a
-perfectionist, because perfection is difficult to plan)
+perfectionist, because perfection is difficult to plan.
 
 I struggle with three of them mostly: delegating tasks, letting go of perfection, and saying no.
 
@@ -31,7 +31,7 @@ Luckily I'm learning the hard way that I need to let go quickly in these key are
 - As the line of business I am running grew, I let potential opportunities slide, as I didn't have
   time.
 
-So, right before the summer, I tricked myself into start delegating. I've used two tricks to help
+So, right before the summer, I tricked myself into start delegating. Two things helped
 me out:
 
 - My daughter was going to be born (she's arrived yesterday), so if I wanted to enjoy time with
