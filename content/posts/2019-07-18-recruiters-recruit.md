@@ -44,8 +44,8 @@ and I would send it as soon as someone contacted me:
 My inspiration was something that I believe [Atlassian] published[^1]. I loved this policy because
 it shifted most of the work from my back to the recruiters' back[^2].
 
-The full day of work was reduced to 2 hours in total[^3] (if I didn't hire anyone: otherwise they
-could send me all the CVs they wanted).
+The full day of work was reduced to 2 hours in total[^3] — if I didn't hire anyone: otherwise they
+could send me all the CVs they wanted.
 
 Most interestingly, lots of recruiters stopped before sending me a single CV: a strong indicator
 that they didn't want to do their job and rather wanted to continue their volume game with some
