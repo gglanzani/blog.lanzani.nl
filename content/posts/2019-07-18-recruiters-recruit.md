@@ -1,6 +1,6 @@
 ---
 date: 2019-07-18T20:00:00Z
-title: Recruiters: recruit!
+title: "Recruiters: recruit!"
 url: /2019/recruiters-recruit
 ---
 
@@ -14,8 +14,8 @@ the profile over".
 However what happened next was always more or less the following:
 
 - I get a bunch of profiles in my inbox;
-- As [everyone](https://www.quora.com/Why-does-everyone-want-to-be-a-data-scientist-now) 
-  [wants](https://capturehighered.com/news/everyone-want-data-scientist-part-1/) 
+- As [everyone](https://www.quora.com/Why-does-everyone-want-to-be-a-data-scientist-now)
+  [wants](https://capturehighered.com/news/everyone-want-data-scientist-part-1/)
   [to](https://www.zdnet.com/article/want-to-be-a-data-scientist-five-ways-to-get-that-job-in-data-science/)
   [be](https://blog.edx.org/data-scientists-become-one) a data scientist or data engineer, the
   profiles are chock full of buzzwords and it is really hard to see if someone if the real deal or
@@ -55,7 +55,7 @@ How many recruiter agency did we end up working with? Just one, comprised of a s
 love him, and kept using his service until we hired our first internal recruiter.
 
 So next time you think you're overwhelmed by the amount of CVs recruiters send your way, try
-shifting the work 
+shifting the work
 
 [^1]: I cannot find the page anymore, so I am not 100% sure anymore that it was Atlassian.
 [^2]: You'd expect this to be obvious, but believe me it's not.
