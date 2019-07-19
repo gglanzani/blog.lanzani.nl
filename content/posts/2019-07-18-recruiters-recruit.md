@@ -59,8 +59,7 @@ shifting the work
 
 [^1]: I cannot find the page anymore, so I am not 100% sure anymore that it was Atlassian.
 [^2]: You'd expect this to be obvious, but believe me it's not.
-[^3]: 30' recruiter onboarding, 20' CV scanning (as they were of higher quality), 45' to talk
-  to usually a single person, and some 30' of overhead.
+[^3]: 30' recruiter onboarding, 20' CV scanning (as they were of higher quality), 45' to talk to usually a single person, and some 30' of overhead.
 
 [hiring]: https://godatadriven.com/careers
 [Atlassian]: http://atlassian.com
