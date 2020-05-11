@@ -7,7 +7,7 @@ url: /2020/install-tkinter-macOS
 If you work with Python on macOS and are trying to let your kids play with things like [turtle]
 you will encounter errors such as
 
-```
+{{< highlight python >}}
 >>> import turtle
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
@@ -16,11 +16,11 @@ Traceback (most recent call last):
   File "~/.pyenv/versions/3.7.4/lib/python3.7/tkinter/__init__.py", line 36, in <module>
     import _tkinter # If this fails your Python may not be configured for Tk
 ModuleNotFoundError: No module named '_tkinter'
-```
+{{< / highlight >}}
 
 If you use [pyenv] and [brew] there's a simple way to fix it:
 
-```
+{{< highlight bash >}}
 brew install tcl-tk
 brew install pyenv  # skip if you already have pyenv installed
 export PATH="/usr/local/opt/tcl-tk/bin:$PATH"
@@ -31,11 +31,11 @@ export PYTHON_CONFIGURE_OPTS="--with-tcltk-includes='-I$(brew --prefix tcl-tk)/i
                               --with-tcltk-libs='-L$(brew --prefix tcl-tk)/lib -ltcl8.6 -ltk8.6'"
 pyenv uninstall 3.8.2  # substitute here the version you're using or skip if you were not using pyenv
 pyenv install $(pyenv install --list | grep -v - | grep -v b | tail -1)
-```
+{{< / highlight >}}
 
 After you're done, you can now turtle along:
 
-```python
+{{< highlight python >}}
 >>> from turtle import *
 >>> color('yellow', 'blue')
 >>> begin_fill()
@@ -46,7 +46,7 @@ After you're done, you can now turtle along:
             break
 >>> end_fill()
 >>> done()
-```
+{{< / highlight >}}
 
 ![a turtle](/images/turtle.png)
 
