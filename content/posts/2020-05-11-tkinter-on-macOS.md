@@ -1,5 +1,5 @@
 ---
-date: 2020-05-11T20:00:00Z
+date: 2020-05-11T07:00:00Z
 title: Install tkinter on macOS
 url: /2020/install-tkinter-macOS
 ---
