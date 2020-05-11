@@ -1,4 +1,4 @@
-baseurl = "http://blog.lanzani.nl"
+baseurl = "https://blog.lanzani.nl"
 disablePathToLower = true
 languageCode = "en-us"
 title = "Technical inconsistencies blog"
@@ -6,10 +6,10 @@ theme = 'hugola'
 
 [params]
 Blog = "/"
-CV = "http://www.lanzani.nl/cv/"
-Domain = "http://www.lanzani.nl"
+CV = "https://www.lanzani.nl/cv/"
+Domain = "https://www.lanzani.nl"
 Name = "lanzani.nl"
-Publications = "http://www.lanzani.nl/publications/"
+Publications = "https://www.lanzani.nl/publications/"
 
 [outputs]
 home = [ "HTML", "RSS" ]
