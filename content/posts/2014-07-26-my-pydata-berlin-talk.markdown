@@ -11,7 +11,7 @@ popular on the PyData Youtube [channel], but we'll see if it'll stand the test o
 Kudos to [Numfocus] and [Pydata] for promoting the conference and kudos to the organisation for
 putting the video's online in record time (faster than WWDC's video's).
 
-[here]: /2014/pydata-berlin-2014
+[here]: /2014/06/04/pydata-berlin-2014
 [PyData]: http://pydata.org/berlin2014
 [Speakerdeck]: https://speakerdeck.com/lanzani/real-time-data-driven-applications
 [Youtube]: https://www.youtube.com/watch?v=I8xBoXgJ5RM
