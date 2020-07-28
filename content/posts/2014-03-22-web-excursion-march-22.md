@@ -16,8 +16,7 @@ A la [Brett Terpstra][brett], a short list of links I've bookmarked this week
   data out of PDF files. Tabula allows you to extract that data in CSV format,
   through a simple interface, running, if desired, locally.
 + [Two factor auth list][2FA]: List of websites and whether or not they support
-  2FA. I've activated [two factor authentication][2FAwiki] on [Gandi]
-  (which is a new feature, I guess).
+  2FA. I've activated [two factor authentication][2FAwiki] on [Gandi] — which is a new feature, I guess.
 + [OneNote]: the premium note taking application from Microsoft has gone free
   and multiplatform. I've tried the Mac version, and I have to confess that,
   for being a 1.0, I'm impressed!
