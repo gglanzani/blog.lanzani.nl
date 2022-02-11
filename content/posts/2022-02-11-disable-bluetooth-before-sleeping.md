@@ -33,7 +33,7 @@ Once you have duplicated, rename it to *Sleep BT* (or whatever), click on *Scrip
 
 Replace the content of the script with
 
-```applescript
+{{< highlight applescript >}}
 -- Sleep
 -- LaunchBar Action
 -- default.scpt
@@ -46,7 +46,7 @@ tell application "LaunchBar" to hide
 delay 0.5
 do shell script "/usr/local/bin/ blueutil -p 0"
 tell application "System Events" to sleep
-```
+{{< / highlight >}}
 
 The only new line is the one but last, `do shell script "/usr/local/bin/ blueutil -p 0"`.
 
