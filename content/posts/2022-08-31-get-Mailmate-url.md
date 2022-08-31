@@ -1,6 +1,6 @@
 ---
 date: 2022-08-31T00:00:00Z
-title: Get URL of selected Mailmate message
+title: Get URL of selected Mailmate messages
 url: /2022/get-mailmate-url/
 ---
 
