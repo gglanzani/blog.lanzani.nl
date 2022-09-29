@@ -8,7 +8,7 @@ I recently upgraded to a new M1 Pro Macbook Pro and the computer is managed by t
 
 It means that — for one reason or the other, spuriously documented on Apple discussion [forum] — I was not able to change the computer name.
 
-![can't change computer name on macOS](https://discussions.apple.com/content/attachment/562718040)
+<img class="img-responsive" alt="can't change computer name on macOS" src="https://discussions.apple.com/content/attachment/562718040">
 
 A good soul documented the solution, that I am reporting here for my future self: fire up the terminal and type
 
