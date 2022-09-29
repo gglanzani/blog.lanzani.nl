@@ -18,3 +18,8 @@ home = [ "HTML", "RSS" ]
 [outputFormats.RSS]
 mediatype = "application/rss"
 baseName = "atom"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
