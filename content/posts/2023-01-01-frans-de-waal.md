@@ -1,6 +1,6 @@
 ---
 date: 2023-01-01T00:00:00Z
-title: Power structure are not a human-only prerogative
+title: Power structures are not a human-only prerogative
 url: /2023/de-waal
 ---
 
