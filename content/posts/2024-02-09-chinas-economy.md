@@ -16,7 +16,7 @@ As 1. is crashing, consumers—who put most of their savings in, guess what, rea
 
 So, 2/3 of their economy is hurting and will hurt more badly in 2024.
 
-The markets are also spooked, having shed USD 1.5 TRN in January alone.
+The Chinese's and Hong Kong's markets are also spooked, having shed USD 1.5 TRN in January alone.
 
 It’s going to be an interesting 2024.
 
