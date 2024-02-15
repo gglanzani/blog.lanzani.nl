@@ -5,12 +5,16 @@ title = "Technical inconsistencies blog"
 theme = 'hugola'
 
 [params]
-Blog = "/"
-CV = "https://www.lanzani.nl/cv/"
-Domain = "https://www.lanzani.nl"
+Domain = "http://www.lanzani.nl"
 Name = "lanzani.nl"
-Publications = "https://www.lanzani.nl/publications/"
-Public = "https://www.lanzani.nl/public/"
+
+[params.sidebar]
+search = "http://duckduckgo.com/?q=site%3Alanzani.nl"
+blog = "/"
+cv = "https://lanzani.nl/cv/"
+publications = "https://lanzani.nl/publications/"
+public = "https://lanzani.nl/public/"
+
 
 [outputs]
 home = [ "HTML", "RSS" ]
