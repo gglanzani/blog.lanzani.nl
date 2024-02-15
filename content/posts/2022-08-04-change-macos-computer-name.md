@@ -2,6 +2,8 @@
 date: 2022-08-04T07:00:00Z
 title: Change macOS computer name
 url: /2022/change-computer-name-macOS
+images:
+  - https://discussions.apple.com/content/attachment/562718040
 ---
 
 I recently upgraded to a new M1 Pro Macbook Pro and the computer is managed by the company.
