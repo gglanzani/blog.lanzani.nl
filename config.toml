@@ -15,6 +15,13 @@ cv = "https://lanzani.nl/cv/"
 publications = "https://lanzani.nl/publications/"
 public = "https://lanzani.nl/public/"
 
+[params.footer]
+Contact = "mailto:giovanni at this domain?subject=feedback"
+X = "http://twitter.com/gglanzani/"
+GitHub = "http://github.com/gglanzani/pure/"
+Mastodon = "https://mastodon.social/@gla"
+LinkedIn = "http://nl.linkedin.com/pub/giovanni-lanzani/24/618/195"
+
 
 [outputs]
 home = [ "HTML", "RSS" ]
