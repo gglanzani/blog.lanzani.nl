@@ -23,7 +23,7 @@ content:
       - name: url
         label: Url
         type: string
-        pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+        pattern: ^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
       - name: link
         label: Link
         type: string
