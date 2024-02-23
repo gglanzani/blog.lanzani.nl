@@ -17,9 +17,6 @@ content:
       - name: title
         label: Title
         type: string
-      - name: link_title
-        label: Link_Title
-        type: string
       - name: url
         label: Url
         type: string
@@ -27,6 +24,11 @@ content:
         label: Link
         type: string
         pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+        required: false
+      - name: link_title
+        label: Link_Title
+        type: string
+        required: false
       - name: body
         label: Body
         type: rich-text      
