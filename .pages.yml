@@ -1,0 +1,42 @@
+media:
+  input: static/images
+  output: /images
+content:
+  - name: posts
+    label: Posts
+    path: content/posts
+    type: collection
+    fields:
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: link_title
+        label: Link_Title
+        type: string
+      - name: url
+        label: Url
+        type: string
+        pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+      - name: link
+        label: Link
+        type: string
+        pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+      - name: body
+        label: Body
+        type: rich-text      
+    filename: '{year}-{month}-{day}-{primary}.md'
+    view:
+        fields: [ title, date ]
+        primary: title
+        sort: [ date, title ]
+        default:
+           search: ''
+           sort: title
+           order: desc
