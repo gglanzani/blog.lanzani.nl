@@ -7,6 +7,7 @@ theme = 'hugola'
 [params]
 Domain = "http://www.lanzani.nl"
 Name = "lanzani.nl"
+Rss = "https://blog.lanzani.nl/atom.xml"
 
 [params.sidebar]
 search = "http://duckduckgo.com/?q=site%3Alanzani.nl"
