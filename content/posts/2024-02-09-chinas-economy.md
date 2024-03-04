@@ -3,6 +3,12 @@ date: 2024-02-09T00:00:00Z
 link: https://www.economist.com/leaders/2024/02/08/can-xi-jinping-win-back-the-markets
 link_title: Has Xi Jinping lost control of the markets?
 title: China's Economy
+snippet: |
+   What’s happening in China is really interesting. If we trust their official figures and estimates, the economy was driven by 3 things
+
+   1. Real estate (who’s crashing hard)
+   2. Consumer spending (who’s in decline, as their population is not growing and aging)
+   3. Exports (who are threatened by India and South East Asia)
 url: /2024/chinas-economy
 ---
 
