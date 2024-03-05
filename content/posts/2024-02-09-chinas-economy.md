@@ -1,6 +1,8 @@
 ---
 date: 2024-02-09T00:00:00Z
 link: https://www.economist.com/leaders/2024/02/08/can-xi-jinping-win-back-the-markets
+images: 
+  - /images/2024-02-09-chinas-economy.png
 link_title: Has Xi Jinping lost control of the markets?
 title: China's Economy
 snippet: |
