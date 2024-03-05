@@ -18,7 +18,7 @@ What’s happening in China is really interesting. If we trust their official fi
 2. Consumer spending (who’s in decline, as their population is not growing and aging)
 3. Exports (who are threatened by India and South East Asia)
 
-As 1. is crashing, consumers—who put most of their savings in, guess what, real estate—are more conscious about spending, hurting another good 30% of their economy.
+As 1. is crashing, consumers---who put most of their savings in, guess what, real estate---are more conscious about spending, hurting another good 30% of their economy.
 
 So, 2/3 of their economy is hurting and will hurt more badly in 2024.
 
