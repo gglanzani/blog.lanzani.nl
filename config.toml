@@ -8,6 +8,7 @@ theme = 'hugola'
 Domain = "http://www.lanzani.nl"
 Name = "lanzani.nl"
 Rss = "https://blog.lanzani.nl/atom.xml"
+Author = "Giovanni Lanzani"
 
 [params.sidebar]
 search = "http://duckduckgo.com/?q=site%3Alanzani.nl"
