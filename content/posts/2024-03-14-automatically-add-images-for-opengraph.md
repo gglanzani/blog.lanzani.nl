@@ -5,7 +5,7 @@ snippet: |
    While using a static site generator is a low-maintenance endeavor, it also means that complex requirements need to be coded if nobody has done it before.
 
    Today, I automated image previews that can be used to display a nice preview through for Open Graph (and Twitter cards!).
-url: /2024/open-graph-hugo
+url: /2024/opengraph-hugo
 ---
 While using a static site generator is a low-maintenance endeavor, it also means that complex requirements need to be coded if nobody has done it before.
 Today, I automated image previews that can be used to display a nice preview through for Open Graph (and Twitter cards!).
