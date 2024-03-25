@@ -40,6 +40,6 @@ The fonts are just the fonds, and `opengraph.html` contains:
 
 In the, then, every blog post will be accompanied by an image as
 
-{{< figure src="/2024/open-graph-hugo/og.png" width="90%" >}}
+{{< figure src="/2024/opengraph-hugo/og.png" width="90%" >}}
 
 [Open Graph]: https://ogp.me/
