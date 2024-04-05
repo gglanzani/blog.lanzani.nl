@@ -8,9 +8,7 @@ tags:
 - lua
 - mail
 snippet: |
-  I recently started using docker_isbg to filter spam from a remote IMAP server. 
-  However, while I configured to not use gmail-specific settings, the program was
-  ignoring my instructions. I fixed it by opening my first lua-based PR.
+  I recently started using docker_isbg to filter spam from a remote IMAP server. However, while I configured it to not use gmail-specific settings, the program still expected gmail-only folders. I fixed it by opening my first lua-based PR.
 url: /2024/docker_isbg
 ---
 
