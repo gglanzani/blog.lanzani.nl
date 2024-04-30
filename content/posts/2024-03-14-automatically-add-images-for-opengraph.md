@@ -31,7 +31,7 @@ To make it all work, you need a couple of things in your Hugo theme
 
 Here, `og_base.png` is just the empty image used to write text on, like:
 
-{{< figure src="/images/og_base.png" width="90%" >}}
+{{< figure src="/images/og_base.png" width="90%" alt="The open graph base image" >}}
 
 The fonts are just the fonds, and `opengraph.html` contains:
 
@@ -40,6 +40,6 @@ The fonts are just the fonds, and `opengraph.html` contains:
 
 In the, then, every blog post will be accompanied by an image as
 
-{{< figure src="/2024/opengraph-hugo/og.png" width="90%" >}}
+{{< figure src="/2024/opengraph-hugo/og.png" width="90%" alt="The rendered open graph image" >}}
 
 [Open Graph]: https://ogp.me/
