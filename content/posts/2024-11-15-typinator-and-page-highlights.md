@@ -1,6 +1,10 @@
 ---
 date: 2024-11-15T00:00:00Z
 title: Linking Directly to Web Page Content with Typinator
+snippet: |
+  Recently, browsers added the ability to go directly go to a webpage highlighting a particular piece of text.
+
+  So, I set out to automate the process of creating these links using Typinator!
 url: /2024/getting-links-with-highlights-automatically
 ---
 
