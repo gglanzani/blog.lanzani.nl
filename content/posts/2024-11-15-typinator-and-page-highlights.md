@@ -1,6 +1,6 @@
 ---
 date: 2024-11-15T00:00:00Z
-title: Getting links with highlights automatically
+title: Linking Directly to Web Page Content with Typinator
 url: /2024/getting-links-with-highlights-automatically
 ---
 
