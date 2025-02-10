@@ -2,6 +2,10 @@
 title: Markdown List Continuation in Helix
 author: Giovanni Lanzani
 date: 2025-02-10T00:00:00Z
+snippet: |
+  One of the gripes I have with Helix is not having automatic list continuation when writing Markdown.
+
+  Until last week, when I found out that there's a clever trick to achieve it
 url: /2025/markdown-list-continuation-in-helix
 ---
 
