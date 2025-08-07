@@ -3,19 +3,19 @@ title: Flash the Firmware of the Preonic from Keyboardio
 author: Giovanni Lanzani
 date: 2025-08-06
 snippet: |
-  I recently received the Preonic keyboard, as my two Model 01 were not really portable.
+  I recently bought the Preonic keyboard, as my two Model 01 were not really portable.
 
-  The Preonic is a super keyboard that is customizable and one of the first things I wanted to do was change the layout a bit. The suggested way is to use Chrysalis but, since I do not use Chrome-based browser, I wanted to do it from the terminal.
+  The Preonic is a super keyboard that is customizable and one of the first things I wanted to do was change the layout a bit. The suggested way is to use Chrysalis but it requires Chrome-based browsers, which I don't use. I resorted to the terminal.
 url: /2025/flash-the-firmware-of-the-preonic-from-keyboardio
 ---
 
-I recently received the [Preonic] keyboard, as my two [Model 01] were not really portable.
+I recently bought the [Preonic] keyboard, as my two [Model 01] were not really portable.
 
-The Preonic is a super keyboard that is highly customizable and connects either wired or by bluetooth. I couldn't pass the opportunity.
+The Preonic is a superb keyboard that is highly customizable and connects either by wire or bluetooth. I couldn't pass the opportunity.
 
-Since it's customizable, one of the first things I wanted to do was change the layout a bit. The suggested way is to use [Chrysalis] but, since I don't use Chrome-based browser, I wanted to do it from the terminal.
+Since it's customizable, one of the first things I wanted to do was change the layout a bit. The suggested way is to use [Chrysalis] but it requires Chrome-based browsers, which I don't use. So, I resorted to the terminal.
 
-As there were no step-by-step instructions, I'm using this blog to document how I've done it.
+As there were no step-by-step instructions, this post documents how I've done it.
 
 ### Getting started
 
