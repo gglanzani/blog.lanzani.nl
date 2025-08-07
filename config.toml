@@ -37,3 +37,5 @@ baseName = "atom"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    style = 'github'
