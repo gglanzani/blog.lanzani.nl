@@ -21,23 +21,24 @@ As there were no step-by-step instructions, this post documents how I've done it
 
 The first step is to clone the repository and set things up. From your terminal, type:
 
-```sh
+
+{{< highlight sh "style=github">}}
 git clone https://github.com/keyboardio/Kaleidoscope
 cd Kaleidoscope
 export KALEIDOSCOPE_DIR=${HOME}/git/Kaleidoscope  # or, if you use fish, use set -x KALEIDOSCOPE_DIR ${HOME}/git/Kaleidoscope
 make setup # this is done the first time
-```
+{{< / highlight >}}
 
 ### Customizing the layout
 
 If everything goes well, we should be ready to customize our layout. To do so
 
-```sh
+{{< highlight sh >}}
 # for some reason, it's not where their other firmwares are
 cd plugins/Kaleidoscope-Hardware-Keyboardio-Preonic/examples/Devices/Keyboardio/Preonic
 vim Preonic.ino # edit the layout with whatever editor you have
 make compile
-```
+{{< / highlight >}}
 
 If everything went well (e.g., you didn't mess up), we should be ready to flash the layout.
 
@@ -55,9 +56,9 @@ To flash the layout, we need to put the keyboard in bootloader model (these inst
 
 That's it! You should now have a working layout. If you want to generate an SVG of the layout, you can type
 
-```sh
+{{< highlight sh >}}
 python generate_layout.py
-```
+{{< / highlight >}}
 
 There are a couple of quirks in the python file, but it will output something that looks like
 
