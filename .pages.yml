@@ -29,6 +29,10 @@ content:
         label: Link_Title
         type: string
         required: false
+      - name: snippet
+        label: Snippet
+        type: string
+        required: false
       - name: body
         label: Body
         type: rich-text      
