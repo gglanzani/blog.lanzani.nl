@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2025-12-10
 title: No Arial
 url: /2025/no-arial
