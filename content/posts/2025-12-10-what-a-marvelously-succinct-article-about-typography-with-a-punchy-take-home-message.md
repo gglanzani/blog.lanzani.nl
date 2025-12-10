@@ -1,8 +1,7 @@
 ---
-published: true
+published: false
 date: 2025-12-10
-title: What a marvelously succinct article about typography with a punchy
-  take-home message!
+title: No Arial
 url: /2025/no-arial
 link: https://practicaltypography.com/typography-in-ten-minutes.html
 link_title: Typography in ten minutes
