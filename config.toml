@@ -38,5 +38,4 @@ baseName = "atom"
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
-    style = 'catppuccin-latte'
-    wrapperClass = ''
+      noclasses = false
