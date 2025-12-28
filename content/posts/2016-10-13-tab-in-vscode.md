@@ -1,6 +1,7 @@
 ---
 date: 2016-10-13T00:00:00Z
 title: Use tab to cycle through Visual Studio Code completion
+tags: ["keybindings", "neovim", "productivity", "programming", "python", "tutorial", "visual studio code"]
 url: /2016/tab-in-vscode/
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2015-06-24T00:00:00Z
 title: Normal mode in Vim
+tags: ["productivity", "programming", "sql", "technology-review", "text-editing", "vim"]
 url: /2015/normal-mode-in-vim/
 ---
 

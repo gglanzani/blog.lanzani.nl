@@ -1,6 +1,7 @@
 ---
 date: 2023-11-08T00:00:00Z
 title: The threat from the illiberal left
+tags: ["analysis", "liberalism", "opinion", "politics", "social issues"]
 url: /2023/illiberal-left
 ---
 

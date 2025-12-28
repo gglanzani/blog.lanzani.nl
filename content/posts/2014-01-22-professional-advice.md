@@ -1,6 +1,7 @@
 ---
 date: 2014-01-22T00:00:00Z
 title: This is my professional advise (!)
+tags: ["law enforcement", "personal opinion", "professional advice", "youtube video"]
 url: /2014/professional-advice/
 ---
 

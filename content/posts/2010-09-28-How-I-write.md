@@ -3,6 +3,7 @@ date: 2010-09-28T00:00:00Z
 link: http://shawnblanc.net/2010how-i-write-an-article/
 link_title: Shawn Blanc on writing
 title: How I write an article
+tags: ["editing", "personal thoughts", "productivity", "writing"]
 url: /2010/How-I-write/
 ---
 

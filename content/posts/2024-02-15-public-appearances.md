@@ -1,6 +1,7 @@
 ---
 date: 2024-02-15T00:00:00Z
 title: Public Appearances
+tags: ["public appearances", "video optimization", "website update", "youtube"]
 url: /2024/public-appearances
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2022-08-04T07:00:00Z
 title: Change macOS computer name
+tags: ["computer name", "m1 pro", "macos", "terminal", "tutorial"]
 url: /2022/change-computer-name-macOS
 images:
   - https://discussions.apple.com/content/attachment/562718040

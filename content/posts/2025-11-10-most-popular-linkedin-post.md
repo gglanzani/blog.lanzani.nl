@@ -1,5 +1,6 @@
 ---
 title: Most Popular LinkedIn Post
+tags: ["linkedin", "personal thoughts", "programming", "technology"]
 author: Giovanni Lanzani
 snippet: |
   I just written what has been, to date, my most popular LinkedIn post

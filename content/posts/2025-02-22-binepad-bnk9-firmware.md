@@ -1,5 +1,6 @@
 ---
 title: Customizing the Binepad BNK9 firmware
+tags: ["binepad bnk9", "firmware customization", "macropad", "programming", "qmk", "tutorial", "via"]
 author: Giovanni Lanzani
 date: 2025-02-22T00:00:00Z
 snippet: |

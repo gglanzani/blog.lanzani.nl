@@ -1,6 +1,7 @@
 ---
 date: 2022-09-29T07:00:00Z
 title: New Airpods
+tags: ["airpods", "amsterdam", "apple", "battery issues", "customer service", "productivity", "technology review"]
 url: /2022/new-airpods
 ---
 

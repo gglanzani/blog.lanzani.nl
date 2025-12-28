@@ -1,6 +1,7 @@
 ---
 date: 2014-04-23T00:00:00Z
 title: The basis of all Haskell love-hate relationships
+tags: ["code snippet", "haskell", "mathematics", "programming", "tutorial"]
 url: /2014/the-basis-of-all-haskell-lovehate-relationships/
 ---
 

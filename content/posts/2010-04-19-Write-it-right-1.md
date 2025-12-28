@@ -1,6 +1,7 @@
 ---
 date: 2010-04-19T00:00:00Z
 title: Write it Right, part I
+tags: ["academic papers", "english language", "gunning fog index", "phd", "publishing", "scientific writing", "writing tips"]
 url: /2010/Write-it-right-1/
 ---
 

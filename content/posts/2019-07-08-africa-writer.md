@@ -1,6 +1,7 @@
 ---
 date: 2019-07-07T08:00:00Z
 title: Africa writer
+tags: ["africa writer", "diversity", "economist", "job ad", "writing skills"]
 url: /2019/africa-writer
 ---
 

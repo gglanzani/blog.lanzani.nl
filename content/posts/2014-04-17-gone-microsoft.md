@@ -1,6 +1,7 @@
 ---
 date: 2014-04-17T00:00:00Z
 title: Gone Microsoft
+tags: ["google apps", "ibm", "mac", "microsoft", "outlook", "technology review", "windows"]
 url: /2014/gone-microsoft/
 ---
 

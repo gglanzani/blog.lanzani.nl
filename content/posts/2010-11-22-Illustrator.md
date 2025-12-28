@@ -1,6 +1,7 @@
 ---
 date: 2010-11-22T00:00:00Z
 title: Illustrator and psfrag
+tags: ["cs5", "eps", "illustrator", "programming", "psfrag", "technology", "tutorial"]
 url: /2010/Illustrator/
 ---
 

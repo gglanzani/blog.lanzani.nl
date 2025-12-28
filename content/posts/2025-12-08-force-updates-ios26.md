@@ -1,5 +1,6 @@
 ---
 title: Forced Update to iOS 26
+tags: ["apple", "david smith", "ios 26", "ios update", "mastodon", "technology review"]
 author: Giovanni Lanzani
 date: 2025-12-08T00:00:00Z
 snippet: |

@@ -1,6 +1,7 @@
 ---
 date: 2022-02-11T07:00:00Z
 title: Disable Bluetooth on Mac before Sleep
+tags: ["bluetooth", "homebrew", "launchbar", "macos", "monterey", "tech tips", "tutorial"]
 url: /2022/disable-bluetooth
 ---
 

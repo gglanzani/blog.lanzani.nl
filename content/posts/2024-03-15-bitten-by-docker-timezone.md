@@ -1,6 +1,7 @@
 ---
 date: 2024-03-15
 title: Bitten by timezones and Docker
+tags: ["chatbot", "docker", "programming", "sqlite", "technical issue", "telegram", "timezone"]
 snippet: |
   Today I learned you should explicitly set the TZ environment variable in Docker to prevent surprises.
 

@@ -1,5 +1,6 @@
 ---
 title: Goodbye, Firewire my old friend
+tags: ["firewire", "kingston datatraveler", "macos", "personal experience", "technology review", "wd my book studio"]
 author: Giovanni Lanzani
 date: 2025-06-22T00:00:00Z
 link: https://www.macrumors.com/2025/06/19/macos-tahoe-beta-drops-firewire-support/

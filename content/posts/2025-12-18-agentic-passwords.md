@@ -1,5 +1,6 @@
 ---
 title: On Agentic AI and reusing passwords
+tags: ["ai", "opinion", "password security", "programming", "technology"]
 author: Giovanni Lanzani
 date: 2025-12-18T00:00:00Z
 url: /2025/agentic-that-drives-revenue

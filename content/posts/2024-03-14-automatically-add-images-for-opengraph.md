@@ -1,6 +1,7 @@
 ---
 date: 2024-03-14
 title: Automatically add images for Open Graph in Hugo
+tags: ["automation", "coding", "hugo", "open graph", "programming", "static site generator", "web development"]
 snippet: |
    While using a static site generator is a low-maintenance endeavor, it also means that complex requirements need to be coded if nobody has done it before.
 

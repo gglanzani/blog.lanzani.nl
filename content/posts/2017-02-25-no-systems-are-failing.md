@@ -1,6 +1,7 @@
 ---
 date: 2017-02-25T00:00:00Z
 title: No system holding your private information is failing
+tags: ["customer service", "data security", "personal information", "phishing", "scam", "technology", "vodafone"]
 url: /2017/no-systems-are-failing/
 ---
 

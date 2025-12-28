@@ -1,6 +1,7 @@
 ---
 date: 2024-09-03T00:00:00Z
 title: Binepad BNK8 Macropad
+tags: ["binepad", "firmware", "macropad", "qmk", "technology review", "via"]
 url: /2024/binepad-bnk8-macropad
 ---
 

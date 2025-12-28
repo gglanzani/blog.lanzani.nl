@@ -1,6 +1,7 @@
 ---
 date: 2014-11-22T00:00:00Z
 title: My @NoSQLmatters Barcelona talk
+tags: ["conference", "data-driven applications", "nosql", "programming", "public speaking", "sql"]
 url: /2014/nosql-matters-barcelona/
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2014-04-18T00:00:00Z
 title: Web Excursions for April 18, 2014
+tags: ["data science", "github", "machine learning", "python", "skala color", "spiped", "web development"]
 url: /2014/web-excursion-april-18-2014/
 ---
 

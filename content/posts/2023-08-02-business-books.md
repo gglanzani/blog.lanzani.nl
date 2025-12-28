@@ -1,6 +1,7 @@
 ---
 date: 2023-08-02T02:00:00Z
 title: Business Books vs Home Life Books
+tags: ["long-term planning", "personal development", "relationship management", "self-improvement", "work-life balance"]
 url: /2023/business-books
 ---
 

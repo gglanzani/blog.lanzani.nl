@@ -1,6 +1,7 @@
 ---
 date: 2010-04-22T00:00:00Z
 title: Write it right part II
+tags: ["abstract writing", "content structure", "scientific articles", "technical writing", "title creation", "writing tips"]
 url: /2010/Write-it-right-2/
 ---
 

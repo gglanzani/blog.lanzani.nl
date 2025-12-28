@@ -2,6 +2,7 @@
 published: true
 date: 2025-12-10
 title: No Arial
+tags: ["design", "opinion", "review", "typography"]
 url: /2025/no-arial
 link: https://practicaltypography.com/typography-in-ten-minutes.html
 link_title: Typography in ten minutes

@@ -1,6 +1,7 @@
 ---
 date: 2023-01-01T00:00:00Z
 title: Power structures are not a human-only prerogative
+tags: ["animal intelligence", "frans de waal", "power structures", "primatology", "social behavior"]
 url: /2023/de-waal
 ---
 

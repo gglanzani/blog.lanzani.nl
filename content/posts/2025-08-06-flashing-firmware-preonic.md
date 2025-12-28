@@ -1,5 +1,6 @@
 ---
 title: Flash the Firmware of the Preonic from Keyboardio
+tags: ["chrysalis", "customization", "firmware", "keyboardio", "preonic", "programming", "tutorial"]
 author: Giovanni Lanzani
 date: 2025-08-06
 snippet: |

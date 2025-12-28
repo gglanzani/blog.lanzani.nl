@@ -3,6 +3,7 @@ date: 2022-10-11T00:00:00Z
 link: https://www.prettyclean.cc
 link_title: Pretty Clean
 title: Easy to use macOS disk cleanup tools
+tags: ["disk cleanup", "macos", "tauri", "technology review", "utility tools"]
 url: /2022/pretty-clean/
 ---
 

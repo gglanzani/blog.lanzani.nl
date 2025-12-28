@@ -1,6 +1,7 @@
 ---
 date: 2014-03-05T00:00:00Z
 title: A handful of GoDataDriven posts
+tags: ["ai/ml", "data processing", "mahout", "numpy", "pig", "programming", "vectorization"]
 url: /2014/a-handful-of-gdd-posts/
 ---
 

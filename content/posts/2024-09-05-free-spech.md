@@ -3,6 +3,7 @@ date: 2024-09-05T00:00:00Z
 link: https://www.economist.com/leaders/2024/09/03/as-brazil-bans-elon-musks-x-who-will-speak-up-for-free-speech
 link_title: As Brazil bans Elon Musk’s X, who will speak up for free speech?
 title: Who will speak up for free speech
+tags: ["culture war", "elon musk", "free speech", "liberals", "politics", "right-wing"]
 url: /2024/who-will-speak-up-for-free-speech
 ---
 

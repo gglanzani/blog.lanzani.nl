@@ -1,6 +1,7 @@
 ---
 date: 2014-02-17T00:00:00Z
 title: App.net Comments Widget
+tags: ["app.net", "facebook", "programming", "tech review", "widget"]
 url: /2014/adn-comments/
 ---
 

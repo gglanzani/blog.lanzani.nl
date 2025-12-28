@@ -1,6 +1,7 @@
 ---
 date: 2019-07-12T19:00:00Z
 title: Google can be creepy
+tags: ["google home", "opinion", "privacy", "sonos", "technology review"]
 url: /2019/google-can-be-creepy
 ---
 

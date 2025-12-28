@@ -1,6 +1,7 @@
 ---
 published: true
 title: Adding dynamic syntax highlighting based on the system theme
+tags: ["programming", "syntax highlighting", "system theme", "tutorial", "web development"]
 url: /2025/dynamic-highlighting
 link: https://bwiggs.com/posts/2021-08-03-hugo-syntax-highlight-dark-light/
 link_title: Hugo Chroma Syntax Highlighting Dark/Light Mode

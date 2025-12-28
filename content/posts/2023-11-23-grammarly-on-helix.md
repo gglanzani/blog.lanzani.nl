@@ -1,6 +1,7 @@
 ---
 date: 2023-11-23T00:00:00Z
 title: Use the Grammarly language server with helix
+tags: ["configuration", "grammarly", "helix", "language server", "markdown", "programming", "tutorial"]
 url: /2023/grammarly-helix-lsp
 ---
 

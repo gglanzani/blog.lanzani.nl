@@ -1,6 +1,7 @@
 ---
 date: 2024-11-15T00:00:00Z
 title: Linking Directly to Web Page Content with Typinator
+tags: ["automation", "browser features", "javascript", "macos", "tutorial", "typinator", "web development"]
 snippet: |
   Recently, browsers added the ability to go directly go to a webpage highlighting a particular piece of text.
 

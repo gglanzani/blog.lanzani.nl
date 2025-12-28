@@ -2,6 +2,7 @@
 published: true
 date: 2024-02-23
 title: Men Children
+tags: ["gender roles", "growth", "parenting", "personal thoughts", "responsibility", "societal issues"]
 url: /2024/men-children
 link: https://mastodon.social/@gla/111974387482486238
 link_title: An interview with Lyz Lenz

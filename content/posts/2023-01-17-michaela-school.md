@@ -3,6 +3,7 @@ date: 2023-01-17T00:00:00Z
 link: https://www.economist.com/britain/2023/01/16/why-super-strict-classrooms-are-in-vogue-in-britain
 link_title: Why super-strict classrooms are in vogue in Britain
 title: Discipline is perceived as safety by children
+tags: ["child psychology", "competition", "discipline", "education", "poetry", "poverty", "school success"]
 url: /2023/michaela-school/
 ---
 

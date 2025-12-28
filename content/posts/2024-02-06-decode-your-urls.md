@@ -1,6 +1,7 @@
 ---
 date: 2024-02-06T00:00:00Z
 title: Decode your URLs
+tags: ["javascript", "microsoft", "productivity tools", "programming", "safelinks", "typinator", "url decoding"]
 url: /2024/decode-your-urls
 ---
 

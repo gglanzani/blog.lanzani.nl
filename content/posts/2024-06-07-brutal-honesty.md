@@ -1,6 +1,7 @@
 ---
 date: 2024-06-07T00:00:00Z
 title: A culture of brutal honesty
+tags: ["ai", "personal thoughts", "productivity", "programming", "technology review"]
 link: https://daringfireball.net/linked/2024/06/06/nyt-humane
 link_title: The New York Times on how the AI pin flopped
 url: /2024/a-culture-of-brutal-honesty

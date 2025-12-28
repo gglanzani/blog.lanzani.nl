@@ -1,6 +1,7 @@
 ---
 date: 2011-03-15T00:00:00Z
 title: PCs
+tags: ["computers", "personal thoughts"]
 url: /2011/Computers/
 ---
 

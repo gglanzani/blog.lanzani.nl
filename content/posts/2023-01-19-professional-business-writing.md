@@ -1,6 +1,7 @@
 ---
 date: 2023-01-19T00:00:00Z
 title: Professional Business Writing by the Economist.
+tags: ["business writing", "grammarly", "online education", "professional communication", "storytelling", "the economist", "writing tips"]
 url: /2023/business-writing
 ---
 

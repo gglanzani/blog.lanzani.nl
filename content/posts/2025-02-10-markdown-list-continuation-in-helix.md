@@ -1,5 +1,6 @@
 ---
 title: Markdown List Continuation in Helix
+tags: ["helix", "markdown", "productivity", "programming", "technology review", "toml", "tutorial"]
 author: Giovanni Lanzani
 date: 2025-02-10T00:00:00Z
 snippet: |

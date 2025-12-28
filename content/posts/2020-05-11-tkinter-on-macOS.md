@@ -1,6 +1,7 @@
 ---
 date: 2020-05-11T07:00:00Z
 title: Install tkinter on macOS
+tags: ["brew", "macos", "pyenv", "python", "tkinter", "turtle", "tutorial"]
 url: /2020/install-tkinter-macOS
 ---
 

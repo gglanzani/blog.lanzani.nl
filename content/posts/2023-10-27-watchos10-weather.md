@@ -1,6 +1,7 @@
 ---
 date: 2023-10-27T00:00:00Z
 title: watchOS 10 weather complication woes
+tags: ["apple watch", "bug fix", "ios", "technology review", "watchos 10"]
 url: /2023/watchOS-wather
 ---
 

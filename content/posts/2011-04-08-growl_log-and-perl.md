@@ -1,6 +1,7 @@
 ---
 date: 2011-04-08T00:00:00Z
 title: Growl.log and Perl
+tags: ["bash", "growl", "notifications", "perl", "productivity", "programming", "technology"]
 url: /2011/growl_log-and-perl/
 ---
 

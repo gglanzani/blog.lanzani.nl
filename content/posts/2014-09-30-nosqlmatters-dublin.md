@@ -1,6 +1,7 @@
 ---
 date: 2014-09-30T00:00:00Z
 title: My NoSQL matters Dublin talk
+tags: ["data-driven applications", "dublin", "nosql", "real-time", "sql", "talk", "technology conference"]
 url: /2014/nosqlmatters-dublin/
 ---
 

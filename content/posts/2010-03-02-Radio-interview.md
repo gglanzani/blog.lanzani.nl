@@ -1,6 +1,7 @@
 ---
 date: 2010-03-02T00:00:00Z
 title: Radio interview with Jos Baijens and the real Dutch spirit
+tags: ["dutch culture", "personal opinion", "radio interview", "religious freedom", "social protest"]
 url: /2010/Radio-interview/
 ---
 

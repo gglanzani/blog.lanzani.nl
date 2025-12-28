@@ -1,5 +1,6 @@
 ---
 title: Hey Claude, delete my home folder
+tags: ["ai agents", "anthropic claude cli", "gemini cli", "openai codex", "programming", "technology review", "user experience"]
 author: Giovanni Lanzani
 date: 2025-12-09T00:00:00Z
 url: /2025/hey-claude-delete-my-home-folder

@@ -5,6 +5,7 @@ images:
   - /images/2024-02-09-chinas-economy.png
 link_title: Has Xi Jinping lost control of the markets?
 title: China's Economy
+tags: ["china", "consumer spending", "economy", "exports", "market analysis", "real estate"]
 snippet: |
    What’s happening in China is really interesting. If we trust their official figures and estimates, the economy was driven by 3 things
 

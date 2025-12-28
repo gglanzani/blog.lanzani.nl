@@ -1,6 +1,7 @@
 ---
 date: 2024-06-30T00:00:00Z
 title: Trust local caddy certificates on macOS
+tags: ["caddy", "certificates", "docker", "macos", "programming", "technology", "tutorial"]
 url: /2024/trust-local-caddy-certificates-on-macos
 ---
 

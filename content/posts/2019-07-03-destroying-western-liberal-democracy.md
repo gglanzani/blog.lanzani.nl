@@ -1,6 +1,7 @@
 ---
 date: 2019-07-03T10:00:00Z
 title: Algorithms to drive engagement
+tags: ["algorithms", "engagement", "opinion", "programming", "social media", "technology criticism"]
 url: /2019/engagement
 ---
 

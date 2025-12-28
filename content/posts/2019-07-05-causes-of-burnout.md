@@ -1,6 +1,7 @@
 ---
 date: 2019-07-05T21:00:00Z
 title: Causes of burnout
+tags: ["burnout", "delegation", "perfectionism", "personal development", "productivity", "workload management"]
 url: /2019/causes-of-burnout
 ---
 

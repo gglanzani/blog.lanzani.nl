@@ -1,6 +1,7 @@
 ---
 date: 2010-02-03T00:00:00Z
 title: Background color with Skim
+tags: ["adobe reader", "applescript", "os x", "pdf", "programming", "skim", "technology review"]
 url: /2010/Background-color-with-Skim/
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2009-07-30T00:00:00Z
 title: Web of Science, Papers and Leiden University
+tags: ["ezproxy", "leiden university", "papers app", "programming", "technology", "tutorial", "web of science"]
 url: /2009/WOS-and-Papers/
 ---
 

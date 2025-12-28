@@ -1,6 +1,7 @@
 ---
 date: 2019-07-18T20:00:00Z
 title: "Recruiters: recruit!"
+tags: ["data science", "godatadriven", "job search", "linkedin", "recruiter policy", "recruitment", "technology hiring"]
 url: /2019/recruiters-recruit
 ---
 

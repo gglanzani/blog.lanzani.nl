@@ -1,6 +1,7 @@
 ---
 date: 2012-05-30T00:00:00Z
 title: Export to BibTeX from Papers (2)
+tags: ["applescript", "automation", "bibtex", "papers app", "programming", "technology", "tutorial"]
 url: /2012/Export-BibTeX-from-Papers/
 ---
 

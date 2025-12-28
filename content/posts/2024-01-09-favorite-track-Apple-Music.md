@@ -1,6 +1,7 @@
 ---
 date: 2024-01-09T00:00:00Z
 title: Mark Apple Music song as favorite in the background
+tags: ["apple music", "applescript", "keyboard maestro", "launchbar", "productivity", "technology"]
 url: /2024/favorite-apple-music
 ---
 

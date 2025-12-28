@@ -1,6 +1,7 @@
 ---
 date: 2015-07-27T00:00:00Z
 title: A functional count in Python
+tags: ["functional programming", "itertools", "programming", "python", "tutorial"]
 url: /2015/a-functional-count/
 ---
 

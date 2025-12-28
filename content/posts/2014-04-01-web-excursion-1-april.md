@@ -1,6 +1,7 @@
 ---
 date: 2014-04-01T00:00:00Z
 title: Web Excursions for April 01, 2014
+tags: ["ascii", "coffeescript", "git", "ipython", "javascript", "programming", "technology review"]
 url: /2014/web-excursion-1-april/
 ---
 

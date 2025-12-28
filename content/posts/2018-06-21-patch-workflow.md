@@ -1,6 +1,7 @@
 ---
 date: 2018-06-21T00:00:00Z
 title: Git patch workflow
+tags: ["git", "patch", "programming", "technology", "tutorial", "version control", "workflow"]
 url: /2018/patch
 ---
 

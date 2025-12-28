@@ -1,6 +1,7 @@
 ---
 date: 2022-04-26T07:00:00Z
 title: Explainable AI and fraud
+tags: ["ai", "algorithm", "explainable ai", "fraud detection", "machine learning", "programming", "technology ethics"]
 url: /2022/explainable-ai-and-fraud
 ---
 

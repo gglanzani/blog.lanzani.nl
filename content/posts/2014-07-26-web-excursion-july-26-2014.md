@@ -1,6 +1,7 @@
 ---
 date: 2014-07-26T00:00:00Z
 title: Web Excursions for July 26, 2014
+tags: ["angular.js", "go", "haskell", "mac", "programming", "terminal", "vim"]
 url: /2014/web-excursion-july-26-2014/
 ---
 

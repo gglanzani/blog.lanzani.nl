@@ -1,6 +1,7 @@
 ---
 date: 2019-06-30T00:00:00Z
 title: Netlified
+tags: ["cloudfront", "github", "https", "hugo", "netlify", "s3", "web hosting"]
 url: /2019/netlified
 ---
 

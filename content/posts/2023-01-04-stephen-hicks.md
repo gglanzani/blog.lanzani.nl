@@ -1,6 +1,7 @@
 ---
 date: 2023-01-04T00:00:00Z
 title: Nietzsche and the Nazis
+tags: ["book review", "history", "nazism", "philosophy", "stephen hicks"]
 url: /2023/stephen-hicks
 ---
 

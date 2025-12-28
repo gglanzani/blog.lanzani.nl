@@ -3,6 +3,7 @@ date: 2011-03-28T00:00:00Z
 link: http://thepracticeofcode.com/post/749686705/encrypted-rotating-time-machine-backups-on-snow
 link_title: The practice of code
 title: Encrypted backups with Time Machine
+tags: ["encrypted backups", "productivity", "programming", "technology review", "time machine", "tutorial"]
 url: /2011/Time-Machine/
 ---
 

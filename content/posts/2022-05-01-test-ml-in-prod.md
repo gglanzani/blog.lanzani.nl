@@ -1,6 +1,7 @@
 ---
 date: 2022-05-01T07:00:00Z
 title: Test your Machine Learning models in production
+tags: ["a/b testing", "data science", "machine learning", "online retail", "production testing", "recommender systems", "user experience"]
 url: /2022/test-ml-in-prod
 ---
 

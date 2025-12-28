@@ -1,6 +1,7 @@
 ---
 date: 2022-09-14T00:00:00Z
 title: Configure Caddy v2 to reverse proxy the Unifi Controller
+tags: ["caddy v2", "configuration", "https", "open source", "reverse proxy", "unifi controller", "web server"]
 url: /2022/caddy-v2-and-unifi
 ---
 

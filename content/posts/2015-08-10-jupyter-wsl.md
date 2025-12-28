@@ -1,6 +1,7 @@
 ---
 date: 2016-08-10T00:00:00Z
 title: Make jupyter notebook work in WSL 
+tags: ["jupyter notebook", "linux", "programming", "python", "technology tutorial", "windows subsystem for linux", "wsl"]
 url: /2016/jupyter-wsl/
 ---
 

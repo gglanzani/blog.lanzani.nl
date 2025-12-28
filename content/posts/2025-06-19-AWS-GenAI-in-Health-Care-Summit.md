@@ -1,5 +1,6 @@
 ---
 title: AWS GenAI in Health Care Impressions
+tags: ["ai adoption", "ai in healthcare", "aws", "data storage", "genai", "healthcare", "medical imaging"]
 author: Giovanni Lanzani
 snippet: |
   Yesterday, I attended the AWS GenAI for Healthcare Summit in Lisbon.

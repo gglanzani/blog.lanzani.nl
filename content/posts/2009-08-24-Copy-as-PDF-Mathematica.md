@@ -1,6 +1,7 @@
 ---
 date: 2009-08-24T00:00:00Z
 title: Add Copy as PDF Shortcut in Mathematica
+tags: ["mac", "mathematica", "pdf", "programming", "shortcut", "tutorial"]
 url: /2009/Copy-as-PDF-Mathematica/
 ---
 

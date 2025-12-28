@@ -1,6 +1,7 @@
 ---
 date: 2022-08-31T00:00:00Z
 title: Get URL of selected Mailmate messages
+tags: ["applescript", "automation", "email client", "mailmate", "productivity", "things", "typinator"]
 url: /2022/get-mailmate-url/
 ---
 

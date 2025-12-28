@@ -2,6 +2,7 @@
 published: true
 date: 2025-12-27
 title: LLM-powered coding mass-produces technical debt
+tags: ["ai/ml", "code automation", "developer productivity", "github copilot", "programming", "technical debt"]
 url: /2025/mass-produced-debt
 link: https://xebia.com/blog/how-reap-benefits-llm-powered-coding-assistants-avoiding-pitfalls/
 link_title: LLM-powered coding mass-produces technical debt

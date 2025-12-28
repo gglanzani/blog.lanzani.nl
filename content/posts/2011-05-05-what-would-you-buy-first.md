@@ -1,6 +1,7 @@
 ---
 date: 2011-05-05T00:00:00Z
 title: What would you buy first?
+tags: ["dropbox", "emacs", "mathematica", "productivity tools", "programming", "software", "technology review"]
 url: /2011/what-would-you-buy-first/
 ---
 

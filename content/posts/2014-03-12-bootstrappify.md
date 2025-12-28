@@ -1,6 +1,7 @@
 ---
 date: 2014-03-12T00:00:00Z
 title: Bootstrappified
+tags: ["personal blog", "programming", "technology review", "twitter bootstrap", "web development"]
 url: /2014/bootstrappify/
 ---
 

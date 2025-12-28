@@ -1,6 +1,7 @@
 ---
 date: 2014-03-20T00:00:00Z
 title: Github Pull Request Triage
+tags: ["github", "mozilla", "programming", "pull request", "technology review", "triage"]
 url: /2014/github-pull-request-triage/
 ---
 

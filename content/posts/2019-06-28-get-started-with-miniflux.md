@@ -1,6 +1,7 @@
 ---
 date: 2019-06-28T00:00:00Z
 title: Get started with miniflux
+tags: ["docker", "gcp", "miniflux", "programming", "rss", "ruby", "technology review"]
 url: /2019/miniflux
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2025-01-03T00:00:00Z
 title: Things we learned about LLMs in 2024
+tags: ["ai", "github", "llms", "office", "productivity", "technology-review", "ux-ui"]
 url: /2025/things-we-learned-llms-2024
 link: https://simonwillison.net/2024/Dec/31/llms-in-2024/
 ---
