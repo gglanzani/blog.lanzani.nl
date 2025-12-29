@@ -27,7 +27,7 @@ GH_OWNER=your_github_username \
 After a while, depending on the number of repositories, you should see
 
 ```sh
-echo "🎉 All migrations complete."
+🎉 All migrations complete.
 ```
 
 Notes:
