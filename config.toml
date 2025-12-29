@@ -17,6 +17,10 @@ cv = "https://lanzani.nl/cv/"
 publications = "https://lanzani.nl/publications/"
 public = "https://lanzani.nl/public/"
 
+[params.umami]
+base_site = "https://umami.lanzani.nl"
+base_site_id = "19952d0d-2825-4b1a-bb20-f1bca512b0a6"
+
 [params.footer]
 Contact = "mailto:giovanni at this domain?subject=feedback"
 X = "http://twitter.com/gglanzani/"
