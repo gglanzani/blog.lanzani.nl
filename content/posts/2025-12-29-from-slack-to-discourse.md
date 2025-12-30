@@ -1,6 +1,11 @@
 ---
 published: true
 title: From Slack to Discourse
+tags: ["open source", "apple", "macos"]
+author: Giovanni Lanzani
+date: 2025-12-29T00:00:00Z
+link: https://discourse.netnewswire.com/t/moving-from-slack-to-discourse/14
+link_title: Netnewswire is moving to Discourse
 url: /2025/from-slack-to-discourse
 snippet: |
   Netnewswire moves from Slack to Discourse and I cannot but applaud them!
