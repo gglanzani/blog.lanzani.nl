@@ -11,9 +11,22 @@ content:
         label: Published
         type: boolean
         default: true
+      - name: author
+        label: Author
+        type: string
+        required: true
       - name: date
         label: Date
         type: date
+        required: true
+      - name: tags
+        label: Tags
+        type: select
+        options:
+          creatable: true
+          multiple: true
+          values: [programming, technology review, tutorial, productivity, technology, personal thoughts, macos, LLM, python, mac, opinion, ai, applescript, automation, data science, github, docker, writing tips, personal development, apple]
+        required: true
       - name: title
         label: Title
         type: string
@@ -45,9 +58,22 @@ content:
         label: Published
         type: boolean
         default: true
+      - name: author
+        label: Author
+        type: string
+        required: true
       - name: date
         label: Date
         type: date
+        required: true
+      - name: tags
+        label: Tags
+        type: select
+        options:
+          creatable: true
+          multiple: true
+          values: [programming, technology review, tutorial, productivity, technology, personal thoughts, macos, LLM, python, mac, opinion, ai, applescript, automation, data science, github, docker, writing tips, personal development, apple]
+        required: true
       - name: title
         label: Title
         type: string
