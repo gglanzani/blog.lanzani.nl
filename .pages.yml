@@ -30,9 +30,11 @@ content:
       - name: title
         label: Title
         type: string
+        required: true
       - name: url
         label: Url
         type: string
+        required: true
       - name: snippet
         label: Snippet
         type: string
@@ -40,6 +42,7 @@ content:
       - name: body
         label: Body
         type: rich-text      
+        required: true
     filename: '{year}-{month}-{day}-{primary}.md'
     view:
         fields: [ title, date ]
@@ -77,16 +80,20 @@ content:
       - name: title
         label: Title
         type: string
+        required: true
       - name: url
         label: Url
         type: string
+        required: true
       - name: link
         label: Link
         type: string
         pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+        required: true
       - name: link_title
         label: Link_Title
         type: string
+        required: true
       - name: snippet
         label: Snippet
         type: string
@@ -94,6 +101,7 @@ content:
       - name: body
         label: Body
         type: rich-text      
+        required: true
     filename: '{year}-{month}-{day}-{primary}.md'
     view:
         fields: [ title, date ]
