@@ -15,4 +15,9 @@ The app is built by Al Castle, VP of Engineering & Security @ [Nerdy](https://ne
 
 I especially like the feature to measure and compare the quality of AI responses
 
-![](/images/metrics_concurrent.png)
+
+{{< image
+  src="images/metrics_concurrent.png"
+  alt="A screenshot of Concurrent"
+  title="A screenshot of the metrics view"
+>}}

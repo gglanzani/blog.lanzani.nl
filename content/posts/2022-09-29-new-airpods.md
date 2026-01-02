@@ -9,7 +9,7 @@ Two years ago I replaced my Airpods with the Airpods Pro.
 
 The upgrade was significant and necessary, as after 2-3 years, the battery of the old ones was worn out.
 
-{{< figure alt="Apple Airpods Pro" src="/images/hero-airpods-pro.png">}}
+{{< image alt="Apple Airpods Pro" title="Here they are ❤️" src="/images/hero-airpods-pro.png" >}}
 
 
 Some months ago (as the Airpods where nearing their 2 year anniversary), the first major issues started to come up. The right microphone wouldn't work well, when touching the right Airpod I would hear a cracking noise, and the battery was slowly decaying.

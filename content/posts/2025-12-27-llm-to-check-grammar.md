@@ -37,10 +37,10 @@ llm keys set anthropic
 
 Once this is in place, the macro is pretty straightforward, and I invoke it with the text I want to check **selected**. I then have to wait a bit, and the script will replace the text with a corrected version, each corrected item marked in bold (I don't use bold much in my text, so that is OK).
 
-{{< figure
-  src="/images/check-grammar.jpg"
+{{< image
+  src="images/check-grammar.jpg"
   alt="A screenshot of the Keyboard Maestro macro to check for grammatical mistakes"
-  caption="A screenshot of the Keyboard Maestro macro to check for grammatical mistakes"
+  title="A screenshot of the Keyboard Maestro macro to check for grammatical mistakes"
 >}}
 
 The core of the macro is the (fish, but it will work on other shell unmodified, probably) script (pasted here to make it easier to copy and paste):

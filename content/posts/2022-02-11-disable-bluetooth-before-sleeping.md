@@ -23,14 +23,14 @@ Then, activate Launchbar (⌘ Space on my Mac), and then launch its index (⌥ �
 In the general section on the left, click on Action. From there, use the search bar to find the
 *Sleep* action, disable its checkbox, right-click, and select *Show in Action Editor*.
 
-<img class="pure-img" src="/images/launchbar-action.png">
+![LaunchBar Action](/images/launchbar-action.png)
 
 Then right-click the *Sleep* action and duplicate it.
 
 Once you have duplicated, rename it to *Sleep BT* (or whatever), click on *Scripts*, and click on
 *Edit*.
 
-<img class="pure-img" src="/images/launchbar-sleep.png">
+![LaunchBar Sleep](/images/launchbar-sleep.png)
 
 Replace the content of the script with
 

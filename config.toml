@@ -43,3 +43,14 @@ baseName = "atom"
       unsafe = true
   [markup.highlight]
       noclasses = false
+
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "themes/hugola/assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static/images"
+    target = "assets/images"

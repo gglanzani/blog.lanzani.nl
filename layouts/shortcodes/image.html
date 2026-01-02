@@ -1,0 +1,26 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $title := .Get "title" | default (.Get "alt") -}}
+
+{{- $image := resources.Get $src -}}
+
+{{- if $image -}}
+  {{- $small := $image.Resize "600x" -}}
+  {{- $medium := $image.Resize "900x" -}}
+  {{- $large := $image.Resize "1200x" -}}
+  <figure>
+    <img
+      src="{{ $image.RelPermalink }}"
+      srcset="{{ $small.RelPermalink }} 600w, {{ $medium.RelPermalink }} 900w, {{ $large.RelPermalink }} 1200w"
+      sizes="(max-width: 768px) 100vw, 768px"
+      alt="{{ $alt }}"
+      title="{{ .Get "title" }}"
+      loading="lazy"
+    />
+    {{- if .Get "title" -}}
+      <figcaption>{{ .Get "title" }}</figcaption>
+    {{- end -}}
+  </figure>
+{{- else -}}
+  {{- warnf "Image not found in assets: %s" $src -}}
+{{- end -}}
