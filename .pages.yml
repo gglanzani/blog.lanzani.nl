@@ -1,6 +1,6 @@
 media:
-  input: static/images
-  output: /images
+  input: assets/images
+  output: images
 content:
   - name: posts
     label: Posts
