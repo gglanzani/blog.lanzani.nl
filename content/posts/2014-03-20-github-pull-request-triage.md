@@ -10,9 +10,7 @@ overview of the pull requests for a given github repository. I've immediately
 gave it a try at one of our clients and I have to say that it works like a
 charm. Installation instructions can be found [here].
 
-<a href="/images/pull-request-triage.png">
-  <img class="pure-img" src="/images/pull-request-triage.png"/>
-</a>
+![The pull request triage](images/pull-request-triage.png)
 
 [project]: https://github.com/peterbe/github-pr-triage
 [peter]: https://github.com/peterbe

@@ -32,7 +32,7 @@ To make it all work, you need a couple of things in your Hugo theme
 
 Here, `og_base.png` is just the empty image used to write text on, like:
 
-{{< figure src="/images/og_base.png" width="90%" alt="The open graph base image" >}}
+![The open graph base image](images/og_base.png)
 
 The fonts are just the fonds, and `opengraph.html` contains:
 
