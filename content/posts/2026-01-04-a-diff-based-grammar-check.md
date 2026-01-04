@@ -2,8 +2,7 @@
 title: A diff-based LLM-powered grammar check
 author: Giovanni Lanzani
 date: 2026-01-04T00:00:00Z
-snippet: |
-  
+tags: ["Keyboard Maestro", "LLM", "automation", "writing"]
 url: /2026/a-diff-based-llm-powered-grammar-check
 ---
 
