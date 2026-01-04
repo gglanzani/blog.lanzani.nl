@@ -1,5 +1,4 @@
 ---
-published: true
 title: From Slack to Discourse
 tags: ["open source", "apple", "macos"]
 author: Giovanni Lanzani

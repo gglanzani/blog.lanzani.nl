@@ -1,5 +1,4 @@
 ---
-published: true
 date: 2025-12-10
 title: No Arial
 tags: ["design", "opinion", "review", "typography"]

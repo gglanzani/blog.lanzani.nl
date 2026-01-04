@@ -1,5 +1,4 @@
 ---
-published: true
 date: 2025-12-27
 title: LLM-powered coding mass-produces technical debt
 tags: ["ai/ml", "code automation", "developer productivity", "github copilot", "programming", "technical debt"]

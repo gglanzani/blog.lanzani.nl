@@ -1,5 +1,4 @@
 ---
-published: true
 title: Adding dynamic syntax highlighting based on the system theme
 tags: ["programming", "syntax highlighting", "system theme", "tutorial", "web development"]
 url: /2025/dynamic-highlighting

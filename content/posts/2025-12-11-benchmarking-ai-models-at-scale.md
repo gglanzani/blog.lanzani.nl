@@ -1,5 +1,4 @@
 ---
-published: true
 date: 2025-12-11
 title: Benchmarking AI models at Scale
 tags: ["ai", "ai models", "benchmarking", "concurrent app", "nerdy", "technology review"]

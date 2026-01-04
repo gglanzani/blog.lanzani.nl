@@ -1,5 +1,4 @@
 ---
-published: true
 date: 2024-02-23
 title: Men Children
 tags: ["gender roles", "growth", "parenting", "personal thoughts", "responsibility", "societal issues"]

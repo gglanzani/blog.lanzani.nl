@@ -7,10 +7,6 @@ content:
     path: content/posts
     type: collection
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
       - name: author
         label: Author
         type: string
@@ -57,10 +53,6 @@ content:
     path: content/posts
     type: collection
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
       - name: author
         label: Author
         type: string
