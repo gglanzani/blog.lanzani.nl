@@ -8,6 +8,8 @@ snippet: |
 url: /2025/llms-for-grammar
 ---
 
+UPDATE: There's a more refined version of this in a new [post](/2026/a-diff-based-llm-powered-grammar-check).
+
 Today, [Dr. Drang](https://fosstodon.org/@drdrang) asked on [Mastodon](https://fosstodon.org/@drdrang/115793520510254515) about my setup to leverage LLMs to check my grammar.
 
 My setup has a couple of assumptions, just like his:
