@@ -7,6 +7,7 @@ snippet: |
   I just found out this beautiful utility to transform cities into beautiful posters.
 link: https://github.com/originalankur/maptoposter
 link_title: Transform your favorite cities into beautiful, minimalist designs.
+tags: ["python", "technology review", "maps"]
 ---
 
 I stumbled upon this beautiful utility to create minimalist posters of the (water)ways of a city.
