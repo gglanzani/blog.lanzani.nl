@@ -1,5 +1,5 @@
 ---
-title: Slack Feed Command is Secretly Broken
+title: Slack's Feed Command is Secretly Broken
 author: Giovanni Lanzani
 date: 2026-01-24T00:00:00Z
 url: /2026/slack-feed-command-is-secretly-broken
