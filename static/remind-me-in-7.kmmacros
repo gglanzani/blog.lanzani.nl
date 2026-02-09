@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>761859896.14625394</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16403736</integer>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+							</dict>
+							<dict>
+								<key>Button</key>
+								<string>Cancel</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string>In how many days should I remind you?</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string>How many days?</string>
+						<key>Variables</key>
+						<array>
+							<dict>
+								<key>Default</key>
+								<string>7</string>
+								<key>Type</key>
+								<string>Automatic</string>
+								<key>Variable</key>
+								<string>Days</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16403743</integer>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>MacroActionType</key>
+						<string>ExecuteJavaScriptForAutomation</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>let addDays = (days) =&gt; {
+    let d = new Date();
+    d.setDate(d.getDate() + days);
+    return d.toISOString().split('T')[0];
+};
+
+function createThingsTodo(name, activationDate, notes) {
+    let url = "things:///add?";
+    let params = [];
+    
+    if (name) params.push("title=" + encodeURIComponent(String(name)));
+    if (activationDate) params.push("when=" + String(activationDate));
+    if (notes) params.push("notes=" + encodeURIComponent(String(notes)));
+    url += params.join("&amp;");
+    
+    let app = Application.currentApplication();
+    app.includeStandardAdditions = true;
+    app.openLocation(url);
+}
+
+let d = parseInt(kmvar.Days, 10);
+
+let mailmate = Application("Mailmate");
+
+let message = mailmate.messages[0];
+let name = message.name();
+let URL = message.messageUrl();
+// Usage examples
+createThingsTodo(name, addDays(d), URL);</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseModernSyntax</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>16404135</integer>
+						<key>AllWindows</key>
+						<true/>
+						<key>AlreadyActivatedActionType</key>
+						<string>Normal</string>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.freron.MailMate</string>
+							<key>Name</key>
+							<string>MailMate</string>
+							<key>NewFile</key>
+							<string>/Applications/MailMate.app</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>ActivateApplication</string>
+						<key>ReopenWindows</key>
+						<false/>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>791999981.86229706</real>
+				<key>ModificationDate</key>
+				<real>792015329.48019195</real>
+				<key>Name</key>
+				<string>Remind me mailmate in n days</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>15</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>6912</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>605E4F13-00CC-4045-8D0A-2E9A551C5C41</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Mailmate Macros</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.freron.MailMate</string>
+					<key>Name</key>
+					<string>MailMate</string>
+					<key>NewFile</key>
+					<string>/Applications/MailMate.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>716B28F9-39BA-4916-B6FE-A14C205778B4</string>
+		<key>UID</key>
+		<string>E43A70B3-03D9-4988-8564-7697B21CB5E6</string>
+	</dict>
+</array>
+</plist>
