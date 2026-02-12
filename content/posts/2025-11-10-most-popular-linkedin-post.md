@@ -12,10 +12,6 @@ I just written what has been, to date, my most popular LinkedIn [post].
 
 I did not expect it when writing it--it is such a niche topic--but apparently it struck a chord.
 
-{{< figure
-  src="/images/linkedin_python.png"
-  alt="A screenshot of the LinkedIn post that got tens of thousands of views"
-  title="Screenshot or it didn't happen"
->}}
+![A screenshot of the LinkedIn post that got tens of thousands of views](images/linkedin_python.png "Screenshot or it didn't happen")
 
 [post]: https://www.linkedin.com/feed/update/urn:li:activity:7391421431974166529/
