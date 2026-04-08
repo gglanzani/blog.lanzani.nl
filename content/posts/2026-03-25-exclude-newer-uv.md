@@ -3,6 +3,10 @@ title: Protect against supply-chain exploits using uv
 author: Giovanni Lanzani
 date: 2026-03-25T00:00:00Z
 url: /2026/protect-against-supply-chain-exploits-in-uv
+tags:
+  - python
+  - security
+  - uv
 ---
 
 [LiteLLM] was recently [victim] of a supply-chain [exploit], where an attacker was able to run arbitrary code on infected machines.
