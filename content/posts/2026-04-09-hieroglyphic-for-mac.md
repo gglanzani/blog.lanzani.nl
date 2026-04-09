@@ -9,7 +9,7 @@ tags:
   - LaTeX
 ---
 
-The other day, I stumbled upon the GNOME-only app [Hieroglyphic], that finds [LaTeX] and typst symbol when you draw them on a canvas.
+The other day, I stumbled upon the GNOME-only app [Hieroglyphic], that finds [LaTeX] and [typst] symbols when you draw them on a canvas.
 
 So, I set out to port it to macOS and I can happily report that I succeeded. There's a [PR] open to contribute everything back, but in the meantime, grab it from my GitHub [fork]!
 
