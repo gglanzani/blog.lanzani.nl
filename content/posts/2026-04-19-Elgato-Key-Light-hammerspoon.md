@@ -1,5 +1,5 @@
 ---
-title: Elgato Key Light Hammerspoon
+title: Elgato Key Light Spoon
 author: Giovanni Lanzani
 date: 2026-04-19T00:00:00Z
 url: /2026/elgato-key-light-hammerspoon
