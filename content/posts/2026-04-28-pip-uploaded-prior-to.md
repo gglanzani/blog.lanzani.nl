@@ -3,6 +3,10 @@ title: pip introduced dependency cooldowns
 author: Giovanni Lanzani
 date: 2026-04-28T00:00:00Z
 url: /2026/pip-introduced-dependency-cooldowns
+tags:
+  - python
+  - security
+  - pip
 ---
 
 In a previous [post], I described how `uv` can now protect you from supply-chain attacks with the `exclude-newer` feature.
