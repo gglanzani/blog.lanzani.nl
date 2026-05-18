@@ -1,6 +1,6 @@
 baseurl = "https://blog.lanzani.nl"
 disablePathToLower = true
-languageCode = "en-us"
+locale = "en-us"
 title = "Technical inconsistencies blog"
 theme = 'hugola'
 
@@ -9,6 +9,15 @@ Domain = "http://www.lanzani.nl"
 Name = "lanzani.nl"
 Rss = "https://blog.lanzani.nl/atom.xml"
 Author = "Giovanni Lanzani"
+role   = "MD, Xebia Data"
+bio    = "Notes on tech, productivity, and, sometimes, politics."
+lede   = "👋🏻 I'm Giovanni, MD at Xebia Data"
+listHeading = "All posts"
+listLede    = "Self-written, for good or for worse"
+available  = "Available for advisory work, Q3 2026"
+coords     = "52°22′N 4°53′E"
+location   = "Amsterdam, NL"
+version    = "v2.0 · 2026"
 
 [params.sidebar]
 search = "http://duckduckgo.com/?q=site%3Alanzani.nl"
@@ -37,12 +46,33 @@ home = [ "HTML", "RSS" ]
 mediatype = "application/rss"
 baseName = "atom"
 
+[menu]
+  [[menu.main]]
+    name = "writing"
+    url  = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "cv"
+    url  = "https://lanzani.nl/cv/"
+    weight = 2
+  [[menu.main]]
+    name = "talks"
+    url  = "https://lanzani.nl/public/"
+    weight = 3
+  [[menu.main]]
+    name = "papers"
+    url  = "https://lanzani.nl/publications/"
+    weight = 4
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
       noclasses = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
 
 [module]
   [[module.mounts]]
