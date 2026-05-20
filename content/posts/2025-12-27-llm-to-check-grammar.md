@@ -2,7 +2,7 @@
 title: LLMs for grammar
 author: Giovanni Lanzani
 date: 2025-12-27T21:00:00Z
-tags: ["Keyboard Maestro", "LLM", "automation", "writing"]
+tags: ["Keyboard Maestro", "LLM", "automation", "writing", "macOS"]
 snippet: |
   Today, Dr. Drang asked about my setup to leverage LLMs to check my grammar. So, I had to write it up!
 url: /2025/llms-for-grammar
