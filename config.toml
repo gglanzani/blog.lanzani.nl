@@ -63,6 +63,11 @@ baseName = "atom"
     name = "papers"
     url  = "https://lanzani.nl/publications/"
     weight = 4
+  [[menu.main]]
+    name = "projects"
+    url  = "https://lanzani.nl/projects/"
+    weight = 5
+
 
 [markup]
   [markup.goldmark]
