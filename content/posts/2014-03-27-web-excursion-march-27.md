@@ -1,5 +1,5 @@
 ---
-Title: Web Excursion for March, 27nd
+title: Web Excursion for March, 27nd
 date: 2014-03-27T00:00:00Z
 url: /2014/web-excursion-march-27/
 ---
