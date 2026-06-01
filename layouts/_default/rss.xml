@@ -12,18 +12,20 @@
 {{- end -}}
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
-  <link href="{{ .Permalink }}index.xml" rel="self"/>
-  <link href="{{ .Permalink }}"/>{{ if not .Date.IsZero }}
+  <link href="{{ .Permalink }}" rel="alternate"/>
+  <link href="{{ .Permalink }}atom.xml" rel="self"/>{{ if not .Date.IsZero }}
   <updated>{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</updated>{{ end }}
   <id>{{ .Permalink }}</id>{{ with .Site.Params.Author }}
   <author>
     <name>{{.}}</name>
   </author>{{end}}
   <generator>Hugo -- gohugo.io</generator>{{ range $pages }}
+  {{- $permalink := .Permalink -}}
   <entry>
     {{ `<title type="html"><![CDATA[` | safeHTML }}{{ .Title }}]]></title>
-    <link href="{{ .Permalink }}"/>
-    <id>{{ .Permalink }}</id>{{ with $.Site.Params.Author }}
+    <link href="{{ if .Params.link }}{{ .Params.link }}{{ else }}{{ $permalink }}{{ end }}"/>{{ with .Params.link }}
+    <link href="{{ $permalink }}" rel="related"/>{{ end }}
+    <id>{{ $permalink }}</id>{{ with $.Site.Params.Author }}
     <author>
       <name>{{.}}</name>
     </author>{{end}}
