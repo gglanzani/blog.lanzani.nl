@@ -9,7 +9,7 @@ tags:
    - macOS
 ---
 
-Having commissioned fonts like Arial, it's no surprise Microsoft doesn't really care that much about fonts.
+Having commissioned fonts like [Arial], it's no surprise Microsoft doesn't really care that much about fonts.
 This, however, is a new low.
 
 ![](images/2026/powerpoint.webp "The Replace Font panel in PowerPoint for Mac")
