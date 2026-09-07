@@ -27,7 +27,7 @@ publications = "https://lanzani.nl/publications/"
 public = "https://lanzani.nl/public/"
 
 [params.umami]
-base_site = "https://umami.lanzani.nl"
+base_site = "https://ts-umami.tail3c2d2c.ts.net/"
 base_site_id = "19952d0d-2825-4b1a-bb20-f1bca512b0a6"
 
 [params.footer]
