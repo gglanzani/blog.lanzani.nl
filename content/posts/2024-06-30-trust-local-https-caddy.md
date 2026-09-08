@@ -5,6 +5,8 @@ tags: ["caddy", "certificates", "docker", "macos", "programming", "technology", 
 url: /2024/trust-local-caddy-certificates-on-macos
 ---
 
+UPDATE: If you own a domain name (or can control its DNS 😬), I've written a new [post] to use Let's Encrypt to issue certificates your devices will trust.
+
 Up to today, I've been bothered by having local https websites served by [Caddy], whose certificates were not trusted by macOS. Today, I rectified it.
 
 For macOS (and Safari) to trust what Caddy deploys locally, I had to:
@@ -14,8 +16,9 @@ For macOS (and Safari) to trust what Caddy deploys locally, I had to:
 - Double-click `caddy.pem` to open it in the Keychain Access.app
 - Double-click the certificate name, open up the *Trust* "tab", and click on "Always Trust".
 
-{{< figure src="/images/keychain_trust.png" width="90%" alt="A screenshot of a certificate open with Keychain Access" >}}
+![](images/keychain_trust.png "A screenshot of a certificate open with Keychain Access")
 
 Then, all the local websites Caddy is serving will be trusted automatically.
 
 [Caddy]: https://caddyserver.com/
+[post]: /2026/internal-dns-with-caddy-and-docker-containers
