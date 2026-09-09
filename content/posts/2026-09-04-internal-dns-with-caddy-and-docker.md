@@ -1,5 +1,5 @@
 ---
-title: Internal DNS with Caddy and docker containers
+title: Real HTTPS Certificates for Local Docker Services with Caddy and Let's Encrypt
 author: Giovanni Lanzani
 date: 2026-09-04T00:00:00Z
 url: /2026/internal-dns-with-caddy-and-docker-containers
@@ -9,9 +9,11 @@ tags:
    - wiki
 ---
 
-At home, I run a number of docker containers on my Beelink S12[^1]. To easily access them with a memorable name, instead of [http://192.168.1.2:823](http://192.168.1.2:823), I was running [caddy-docker-proxy]. It proxies docker containers with caddy through labels in a `docker-compose.yml` file. With it, I could access the service at https://my-service.lan.
+At home, I run a number of docker containers on my Beelink S12[^1]. To easily access them with a memorable name, instead of [http://192.168.1.2:823](http://192.168.1.2:823), I was running [caddy-docker-proxy]. It proxies docker containers with caddy through labels in a `docker-compose.yml` file. With it, I could access each container at https://my-service.lan.
 
-The basic usage is quite simple. First of all, we need caddy-docker-proxy running once (and that instance will be shared). A sufficient `docker-compose.yml` looks like this:  
+The basic usage is quite simple. First of all, we need caddy-docker-proxy running (once per server, so you'll serve multiple services running on their docker containers).
+
+A sufficient `docker-compose.yml` looks like this:  
 
 ```yaml
 services:
@@ -63,9 +65,11 @@ networks:
     external: true
 ```
 
-This is all you need to access the service through https://adguard.lan. However, you need to trust local certificates (my [post] about it is the most popular of my blog) if you don't want to be bothered by safety warnings. Every. Single. Time.
+This is all you need to access the service through https://adguard.lan.
 
-Some time ago, however, I read that's possible to issue real https certificates with [Let's Encrypt](https://letsencrypt.org/) even for internal services (like adguard, that I do not expose on the internet).
+However, you need to trust local certificates (my [post] about it is the most popular of my blog) if you don't want to be bothered by safety warnings. Every. Single. Time.
+
+Some time ago, however, I read that's possible to issue real HTTPS certificates with [Let's Encrypt](https://letsencrypt.org/) even if the docker container is not reachable from for the internet.
 
 How?
 
@@ -86,7 +90,9 @@ COPY --from=builder /usr/bin/caddy /usr/bin/caddy
 CMD ["caddy", "docker-proxy"]
 ```
 
-Afterward, you can edit the previous compose files (note the `labels` section):
+(build this image with `docker build -t caddy-caddy-docker-proxy-porkbun .`)
+
+Afterward, you can edit the previous compose files (note the changed image name and `labels` section):
 
 ```yaml
 services:
@@ -116,7 +122,7 @@ volumes:
   caddy_data: {}
 ```
 
-For adguard, update the `labels.caddy` key with the desired subdomain (and don't forget to point your subdomain to the **internal** ip address where caddy-docker-proxy is running!)
+For adguard, update the `labels.caddy` key with the desired subdomain (and don't forget to point your subdomain in your DNS registrar to the **internal** ip address where caddy-docker-proxy is running! In my case, that's an A record pointing to 192.168.1.2)
 
 ```yaml
 version: '3.3'
@@ -145,7 +151,7 @@ networks:
     external: true
 ```
 
-And that's it! Now https://adguard.lanzani.nl will be served without security warnings (but still be *inaccessible* from outside your network, if you set it up like me).
+And that's it! Now https://adguard.lanzani.nl will be served without security warnings (while still being *inaccessible* from outside your network, if you set it up like me).
 
 [caddy-docker-proxy]: https://github.com/lucaslorentz/caddy-docker-proxy
 [post]: /2024/trust-local-caddy-certificates-on-macos/
